@@ -13,7 +13,6 @@
 
 # 사용한 라이브러리 및 구현 환경
     1. 구현 환경
-        - Window 7
         - eclipse
         - Java
         - MySQL
