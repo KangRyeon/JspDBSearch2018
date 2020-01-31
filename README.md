@@ -18,6 +18,7 @@
         - MySQL
         - JSP
         - LINUX
+        
     2. 사용한 라이브러리 및 기능
         - Bootstrap을 사용한 UI 구현
         
